@@ -5,7 +5,7 @@ A multi-page static website built to be a resource hub for fundamental statistic
 ## 🚀 Live Demo
 
 You can view the live, deployed website here:
-**[Your Live Website URL]**
+**[https://lucilla22.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/]**
 
 ## 🎯 Project Purpose
 
